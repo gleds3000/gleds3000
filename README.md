@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **gleds3000/gleds3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
 
 - 🚀  I’m currently working with deployment and architecture of applications in AWS clouds (as Devops)
@@ -25,14 +23,16 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   
 ## ⚡ Conhecimento Dedicado na AWS
+# 2 x AWS
   
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-Serviços  
-  ![S3]
-  ![EC2]
-  ![ECS]
-  ![FARGATE]
-  ![LoadBalance]
-  ![CodeBuild]
-  ![CodePipeline]
-  ![CloudFormation]
+# Serviços:  
+  ![S3](https://img.shields.io/badge/S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![ECS](https://img.shields.io/badge/ECS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![FARGATE](https://img.shields.io/badge/Fargate-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![LoadBalance](https://img.shields.io/badge/LoadBalance-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![CodeBuild](https://img.shields.io/badge/CodeBuild-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![CodePipeline](https://img.shields.io/badge/CodePipeline-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  
